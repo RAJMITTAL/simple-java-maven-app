@@ -17,5 +17,3 @@ public class App {
         return MESSAGE;
     }
 }
-
-
